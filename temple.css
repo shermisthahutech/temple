@@ -1,0 +1,140 @@
+body,
+html {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    padding: 15px;
+    background-color: rgb(241, 245, 255);
+}
+
+.header div {
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    width: 50%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header button {
+    width: 100px;
+    height: 30px;
+    color: white;
+    background-color: rgb(63, 99, 174);
+    border: 1px solid rgb(63, 99, 174);
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#block {
+    word-spacing: 20px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+#block a {
+    color: black;
+}
+
+.section {
+    background-color: rgb(236, 235, 235);
+    padding: 100px;
+}
+
+#third {
+    text-align: center;
+    padding: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h4 {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#div {
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.section h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.section button {
+    width: 100px;
+    border: 1px solid rgb(63, 99, 174);
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.flex-box {
+    display: flex;
+    padding: 10px;
+    margin: 5px;
+}
+
+.flex-box div {
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.section-box {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: auto;
+    padding: 10px;
+    width: 90%;
+}
+
+#divs {
+    margin: 30px 30px 30px 30px;
+    font-size: 20px;
+}
+
+#divs h2 {
+    width: 60%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.flex {
+    width: 650px;
+    display: flex;
+    height: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+#discovertag {
+    font-size: 15px;
+    color: rgb(63, 99, 174);
+    font-family: 'Roboto', sans-serif;
+}
+
+.flex div {
+    margin: 5px;
+    padding: 5px;
+    font-family: 'Roboto', sans-serif;
+    ;
+}
